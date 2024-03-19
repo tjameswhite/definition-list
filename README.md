@@ -1,14 +1,16 @@
 # Screen Readers and Definition Lists
+https://www.youtube.com/playlist?list=PLQfta1JvQ_M8wIjKRbaazC2p7-itmT-J7
+I created a simple test file  ([Definition List](https://codepen.io/tjameswhite/full/KKBaNaM))  using sample mark up from Mozilla’s MDN web docs ([&lt;dl&gt;: The Description List element - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl))
 
-I created a simple test file  ([Definition List](https://codepen.io/tjameswhite/full/KKBaNaM))  using sample mark up from Mozilla’s mdn web docs ([&lt;dl&gt;: The Description List element - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl))
+I tested three combinations of screen readers and browser: Jaws with Edge; VoiceOver with Safari; and VoiceOver with Chrome. All browsers and screen readers used default settings. 
 
-Tested three combinations of screen readers and browser: Jaws & Edge; VoiceOver and Safari, and Chrome. All browsers and screen readers used default settings. 
+Recordings of the tests can be seen on [YouTube](https://www.youtube.com/playlist?list=PLQfta1JvQ_M8wIjKRbaazC2p7-itmT-J7).
 
 The test consists of four definition list options: 
 1. 1 term and 1 definition 
 2. 3 terms and 1 definition
 3. 1 term and 2 definitions
-4. group of 4 consisting of 1 term and 1 definition each
+4. A group of 4 lists with 1 term and 1 definition each
 
 ## Jaws & Edge
 
@@ -22,9 +24,10 @@ Tested the four options, in order, Jaws announced the following. Tested used dow
 
 Observation: 
 - Jaws announces “items”(plural) even when there is only 1 item.
+
 ## Voiceover and Safari
 
-Tested same order and manner as Jaws. Tested by moving through the lists one item at a time. 
+Tested the same order and manner as Jaws. Tested by moving through the lists one item at a time. 
 
 1. “Description list 1 item. Firefox 1 of 2. A free … . 2 of 2. End of description list.”
 2. “Description list 3 items. Firefox 1 of 4. Mozilla Firefox 2 of 4. FX 3 of 4. A free … . 4 of 4. End of description list.”
