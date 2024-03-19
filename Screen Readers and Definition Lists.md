@@ -1,5 +1,4 @@
 # Screen Readers and Definition Lists
-#a11y
 
 I created a simple test file  ([Definition List](https://codepen.io/tjameswhite/full/KKBaNaM))  using sample mark up from Mozilla’s mdn web docs ([&lt;dl&gt;: The Description List element - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl))
 
