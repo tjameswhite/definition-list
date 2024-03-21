@@ -1,10 +1,10 @@
 # Screen Readers and Definition Lists
-https://www.youtube.com/playlist?list=PLQfta1JvQ_M8wIjKRbaazC2p7-itmT-J7
+
 I created a simple test file  ([Definition List](https://codepen.io/tjameswhite/full/KKBaNaM))  using sample mark up from Mozilla’s MDN web docs ([&lt;dl&gt;: The Description List element - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl))
 
 I tested three combinations of screen readers and browser: Jaws with Edge; VoiceOver with Safari; and VoiceOver with Chrome. All browsers and screen readers used default settings. 
 
-Recordings of the tests can be seen on [YouTube](https://www.youtube.com/playlist?list=PLQfta1JvQ_M8wIjKRbaazC2p7-itmT-J7).
+Recordings of the tests can be seen on [YouTube](https://www.youtube.com/playlist?list=PLQfta1JvQ_M8wIjKRbaazC2p7-itmT-J7) (three videos).
 
 The test consists of four definition list options: 
 1. 1 term and 1 definition 
